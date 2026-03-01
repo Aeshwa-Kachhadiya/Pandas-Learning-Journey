@@ -5,7 +5,7 @@ A repository where I solve problems from the **LeetCode 30 Days of Pandas Study 
 This journey helps me practice real-world data operations that are commonly used in **data analysis and data science**.
 
 ## 📚 About the Study Plan
-The **30 Days of Pandas** study plan is designed to help learners build a strong foundation in pandas by solving practical data manipulation problems. It covers essential operations such as data filtering, aggregation, grouping, and statistical calculations using pandas. :contentReference[oaicite:0]{index=0}
+The **30 Days of Pandas** study plan is designed to help learners build a strong foundation in pandas by solving practical data manipulation problems. It covers essential operations such as data filtering, aggregation, grouping, and statistical calculations using pandas. 
 
 Before starting this study plan, it is recommended to have basic knowledge of Python including syntax, loops, functions, and data structures. :contentReference[oaicite:1]{index=1}
 
@@ -27,10 +27,8 @@ Before starting this study plan, it is recommended to have basic knowledge of Py
 - Maintain consistency by solving problems from the study plan
 - Document my learning journey on GitHub
 
-## 🧠 Practice Structure
-Each solution includes:
-- Problem statement
-- Approach / explanation
-- Python pandas implementation
+🤝 Connect with Me
+💼 [LinkedIn](https://www.linkedin.com/in/aeshwakachhadiya/)
 
-## 📂 Repository Structure
+📖 Study Plan
+🔗 [LeetCode 30 Days of Pandas](https://leetcode.com/studyplan/30-days-of-pandas/)
